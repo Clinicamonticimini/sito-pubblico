@@ -22,7 +22,8 @@ Durante l'orario di apertura le visite sono SOLO su appuntamento (telefono sede)
 ## Servizi
 - Visite di base: Valutazione clinica completa, calendario vaccinale e prevenzione. (Tutti i medici)
 - Medicina interna: Diagnosi delle malattie di organi e apparati. (Dott.ssa Di Santo, Dott. Romagnoli, Dott. Menicocci, Dott. Pollio)
-- Chirurgia: Chirurgia dei tessuti molli e ortopedica, in due sale dedicate. (Dott. Achilli, Dott.ssa Romano, Dott.ssa Pollaci (tessuti molli), Dott. Angelici (ortopedia))
+- Chirurgia dei tessuti molli: Interventi su organi e tessuti molli, in una sala chirurgica dedicata. (Dott. Achilli, Dott.ssa Romano, Dott.ssa Pollaci)
+- Chirurgia ortopedica: Fratture, lussazione di rotula e displasia. Con il Dott. Angelici: artroscopia, medicina sportiva e, per la rottura del legamento crociato, l'intervento di TPLO. (Dott. Achilli, Dott. Angelici)
 - Chirurgia laparoscopica: Interventi mininvasivi. (Dott. Achilli)
 - Anestesiologia: Gestione dell'anestesia per interventi e procedure diagnostiche. (Dott.ssa Romano)
 - Endoscopia: Sala dedicata, anche per la gastroenterologia. (Dott. Achilli)
@@ -55,6 +56,7 @@ Durante l'orario di apertura le visite sono SOLO su appuntamento (telefono sede)
 - Cosa faccio in caso di emergenza a clinica chiusa? Chiama il servizio di reperibilità al 380 195 8274. È attivo 7 giorni su 7, 24 ore su 24, negli orari in cui la clinica è chiusa: la sera, la notte, il sabato pomeriggio, la domenica e i festivi. Durante l'orario di apertura chiama la sede al 0761 304122.
 - Curate anche gatti e animali esotici? Sì. Curiamo cani, gatti e animali esotici o non convenzionali. La sala d'attesa ha una zona gatti separata da quella dei cani, e la degenza per gatti ed esotici è distinta da quella dei cani.
 - Fate visite oculistiche e interventi di cataratta? Sì. Le visite oftalmologiche si fanno tutti i giorni su appuntamento, con la Dott.ssa Agnese Di Santo, diplomata all'Accademia di Oftalmologia Unisvet. La chirurgia specialistica e la cataratta, con gli oftalmologi Dott. Mario Vergara e Dott.ssa Iulia Elena Filipescu, ogni due settimane, sempre su appuntamento.
+- Operate la rottura del legamento crociato? Sì. Per la rottura del legamento crociato del cane eseguiamo in clinica l'intervento di TPLO (osteotomia di livellamento del plateau tibiale) con il Dott. Pierpaolo Angelici, chirurgo ortopedico collaboratore. Il servizio di chirurgia ortopedica è seguito dal Dott. Alessandro Achilli. Prima dell'intervento è necessaria una visita ortopedica su appuntamento.
 - C'è parcheggio? Sì, la clinica ha un parcheggio interno.
 - Avete un laboratorio interno? Sì. Il laboratorio di analisi interno ci permette di avere risultati in tempi rapidi, spesso durante la stessa visita.
 
@@ -65,4 +67,15 @@ Durante l'orario di apertura le visite sono SOLO su appuntamento (telefono sede)
 - [Medicina interna](https://www.clinicaveterinariaviterbo.it/medicina-interna/)
 - [Degenze e ricoveri](https://www.clinicaveterinariaviterbo.it/degenze-e-ricoveri/)
 - [Oculistica](https://www.clinicaveterinariaviterbo.it/oculistica/)
+- [Chirurgia ortopedica](https://www.clinicaveterinariaviterbo.it/chirurgia-ortopedica/)
+- [TPLO per la rottura del legamento crociato](https://www.clinicaveterinariaviterbo.it/tplo/)
+- [Anestesiologia](https://www.clinicaveterinariaviterbo.it/anestesiologia/)
+- [Cardiologia](https://www.clinicaveterinariaviterbo.it/cardiologia/)
+- [Chirurgia laparoscopica](https://www.clinicaveterinariaviterbo.it/chirurgia-laparoscopica/)
+- [Chirurgia dei tessuti molli](https://www.clinicaveterinariaviterbo.it/chirurgia-tessuti-molli/)
+- [Dermatologia](https://www.clinicaveterinariaviterbo.it/dermatologia/)
+- [Diagnostica per immagini](https://www.clinicaveterinariaviterbo.it/diagnostica-per-immagini/)
+- [Endoscopia](https://www.clinicaveterinariaviterbo.it/endoscopia/)
+- [Oncologia](https://www.clinicaveterinariaviterbo.it/oncologia/)
+- [Osteopatia e Fisioterapia](https://www.clinicaveterinariaviterbo.it/osteopatia-e-fisioterapia/)
 - [Contatti](https://www.clinicaveterinariaviterbo.it/contatti/)
