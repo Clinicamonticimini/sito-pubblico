@@ -296,7 +296,7 @@ footer .legal{grid-column:1/-1;border-top:1px solid var(--line);padding-top:18px
 <script>
 (function(){
   var btn=document.querySelector('.menu-btn'),nav=document.getElementById('nav');
-  if(btn&&nav){btn.addEventListener('click',function(){var o=nav.classList.toggle('open');btn.setAttribute('aria-expanded',o)})}
+  if(btn&&nav){btn.addEventListener('click',function(){var o=nav.classList.toggle('open');btn.setAttribute('aria-expanded',o)});nav.addEventListener('click',function(e){if(e.target.closest('a')){nav.classList.remove('open');btn.setAttribute('aria-expanded','false')}})}
   // Stato apertura, calcolato sull'ora di Viterbo
   var H={1:[570,1140],2:[570,1140],3:[570,1140],4:[570,1140],5:[570,1140],6:[570,720]};
   var names=['domenica','lunedì','martedì','mercoledì','giovedì','venerdì','sabato'];
